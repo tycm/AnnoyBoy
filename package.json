@@ -1,0 +1,25 @@
+{
+  "name": "annoyboy",
+  "version": "1.0.0",
+  "description": "Personal bot for discord",
+  "main": "AnnoyBoy.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "eslint": "^5.15.3",
+    "node-opus": "^0.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tycm/AnnoyBoy.git"
+  },
+  "author": "tycm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tycm/AnnoyBoy/issues"
+  },
+  "homepage": "https://github.com/tycm/AnnoyBoy#readme"
+}
