@@ -1,4 +1,4 @@
-#AnnoyBoy
+# AnnoyBoy
 When looking for discord bots, I noticed there was not one that had everything I wanted in the way that I wanted. So I decided to make my own. 
 
 ## Usage
