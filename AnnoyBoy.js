@@ -1,11 +1,8 @@
 const fs = require('fs');
 const Discord = require('discord.js');
-require('discord.js-music');
-const cassette = require('cassette');
-const playlist = new cassette.Playlist();
+
 
 const { prefix, token, ytapi } = require('./config.json');
-const ytService = new cassette.YouTubeService(ytapi);
 
 const client = new Discord.Client();
 client.commands = new Discord.Collection();
