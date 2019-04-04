@@ -9,8 +9,7 @@ module.exports = {
 					console.log(connection);
 				})
 				.catch(console.log);
-		}
-		else {
+		} else {
 			message.reply('You need to join a voice channel first!');
 		}
 	},
