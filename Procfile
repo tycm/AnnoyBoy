@@ -1,1 +1,1 @@
-web: node AnnoyBoy.js
+worker: npm start
